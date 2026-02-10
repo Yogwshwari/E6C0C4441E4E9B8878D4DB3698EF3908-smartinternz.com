@@ -1,1 +1,5 @@
-# E6C0C4441E4E9B8878D4DB3698EF3908-smartinternz.com
+# College Project
+
+This is a college project uploaded for academic purpose.
+
+Author: Yogeshwari
